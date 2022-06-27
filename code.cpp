@@ -2,4 +2,6 @@
 
 int main() {
 	printf("asd");
+	printf("ㅁㄴㅇ");
+	printf("asdasdasdasdasd");
 }
